@@ -7,13 +7,13 @@ https://www.reddit.com/r/FansOfsaUCE/comments/olhrwg/personal_coinopsx_build_dow
 Let's say you just downloaded the v5 saUCE to your Downloads folder (and your name is Bob).
 Your folder and files must look exactly like this -OR- you need to edit the script to match what you have:
 
-C:\
-├── Users
-│   ├── Bob
-│   │   ├── Downloads
-│   │   │   ├── Coinops X Arcade Version 5 is Alive Saucey Edition
-│   │   │   │   ├── 3 Player Build
-│   │   │   │   ├── 4 Player Build
+C:\  
+├── Users  
+│   ├── Bob  
+│   │   ├── Downloads  
+│   │   │   ├── Coinops X Arcade Version 5 is Alive Saucey Edition  
+│   │   │   │   ├── 3 Player Build  
+│   │   │   │   ├── 4 Player Build  
 │   │   │   │   ├── Arcade
 │   │   │   │   ├── content
 │   │   │   │   ├── cox

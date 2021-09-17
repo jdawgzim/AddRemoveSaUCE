@@ -15,8 +15,8 @@ setlocal enabledelayedexpansion
 ::   This script can handle '!' and '&' in the filenames.  It replaces them with '*'
 ::   (i.e. "Mr Do!" -> "Mr Do*")
 
-set saucepath=F:\Downloads\CoinOpsX
-:: set /p saucepath="Give full path to where to saUCEs are (i.e. H: or C:\CoinopsX)? "
+set /p saucepath="Give full path to where to saUCEs are (i.e. H: or C:\CoinopsX)? "
+:: set saucepath=F:\Downloads\CoinOpsX
 REM Choose which line above to comment out to determine what saucepath is.
 REM If your v5 saUCE is here:    C:\Users\Bob\Downloads\CoinOps X Arcade Version 5 is Alive Saucey Edition
 REM then set the above line to:  set saucepath=C:\Users\Bob\Downloads
@@ -25,8 +25,8 @@ echo.
 echo *** saUCE Games Add/Remove Script ***
 echo.
 
-set target=D:\MyTrash\alu
-::set /p target="Give target path to where to Add/Remove files (i.e. H: or C:\CoinopsX)? "
+set /p target="Give target path to where to Add/Remove files (i.e. H: or C:\CoinopsX)? "
+:: set target=D:\MyTrash\alu
 REM Choose which line above to comment out to determine what target is.
 REM I recommend using a PC SSD directory as target instead of your USB stick
 REM   because you can run AddonX Tool on that directory instead of taking your

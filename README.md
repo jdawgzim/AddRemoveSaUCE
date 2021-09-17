@@ -37,5 +37,4 @@ H:\
 │   │   └── (at least one .txt file)  
 
 
-Don't forget to edit the saucepath line in the script. For the example above, it should be:
-set saucepath=C:\Users\Bob\Downloads
+Open the AddRemoveSaUCE.bat file and your can edit the saucepath and target lines to your directories so you don't have to enter them each time.

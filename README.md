@@ -1,6 +1,8 @@
 # AddRemoveSaUCE
 Add or remove UCE files to/from your USB for AtGames Legends Ultimate Arcade
 
+jaxsedrin of reddit started this code originally and gave me permission to add to it and share it.
+
 https://www.reddit.com/r/FansOfsaUCE/comments/nxo7oy/my_process_for_selecting_and_managing_a_curated/
 https://www.reddit.com/r/FansOfsaUCE/comments/olhrwg/personal_coinopsx_build_download/
 

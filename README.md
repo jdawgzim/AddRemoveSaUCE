@@ -14,27 +14,27 @@ C:\
 │   │   │   ├── Coinops X Arcade Version 5 is Alive Saucey Edition  
 │   │   │   │   ├── 3 Player Build  
 │   │   │   │   ├── 4 Player Build  
-│   │   │   │   ├── Arcade
-│   │   │   │   ├── content
-│   │   │   │   ├── cox
-│   │   │   │   ├── Daphne
-│   │   │   │   └── Lightgun Build
-│   │   │   ├── CoinopsX saUCEd ColecoVision Edition
-│   │   │   │   ├── ColecoV
-│   │   │   │   ├── cox
-│   │   │   ├── Add or Remove saUCE.bat
-│   │   │   ├── addlist.txt
-│   │   │   └── removelist.txt
+│   │   │   │   ├── Arcade  
+│   │   │   │   ├── content  
+│   │   │   │   ├── cox  
+│   │   │   │   ├── Daphne  
+│   │   │   │   └── Lightgun Build  
+│   │   │   ├── CoinopsX saUCEd ColecoVision Edition  
+│   │   │   │   ├── ColecoV  
+│   │   │   │   ├── cox  
+│   │   │   ├── Add or Remove saUCE.bat  
+│   │   │   ├── addlist.txt  
+│   │   │   └── removelist.txt  
 
 You only need to have addlist.txt and removelist.txt if you plan on using script options 2 and 5, respectively.
 
 
 If you want to use options 3 or 6, then your USB drive needs to look like this (assuming it's mounted as your H: drive):
 
-H:\
-├── cox
-│   ├── playlists
-│   │   └── (at least one .txt file)
+H:\  
+├── cox  
+│   ├── playlists  
+│   │   └── (at least one .txt file)  
 
 
 Don't forget to edit the saucepath line in the script. For the example above, it should be:

@@ -30,6 +30,7 @@ C:\
 
 You only need to have addlist.txt and removelist.txt if you plan on using script options 2 and 5, respectively.
 
+The only thing you need from this GitHub is the batch script.  Make a AddRemoveSaUCE.bat file and copy the text from this GitHub into it then run it.
 
 If you want to use options 3 or 6, then your USB drive needs to look like this (assuming it's mounted as your H: drive):
 
@@ -39,4 +40,4 @@ H:\
 │   │   └── (at least one .txt file)  
 
 
-Open the AddRemoveSaUCE.bat file and your can edit the saucepath and target lines to your directories so you don't have to enter them each time.
+Optional: Open the AddRemoveSaUCE.bat file and your can edit the saucepath and target lines to your directories so you don't have to enter them each time.

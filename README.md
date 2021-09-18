@@ -24,7 +24,7 @@ C:\
 │   │   │   ├── CoinopsX saUCEd ColecoVision Edition  
 │   │   │   │   ├── ColecoV  
 │   │   │   │   ├── cox  
-│   │   │   ├── Add or Remove saUCE.bat  
+│   │   │   ├── AddRemoveSaUCE.bat  
 │   │   │   ├── addlist.txt  
 │   │   │   └── removelist.txt  
 
